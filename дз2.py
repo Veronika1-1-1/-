@@ -1,0 +1,7 @@
+Name = ('это моя строка')
+print(Name[:1])
+print(Name[-1:])
+print(Name[3:6])
+print(Name[::-1])
+print(len(Name))
+print('это новая сторока ' + (Name))
